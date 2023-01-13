@@ -8,11 +8,11 @@ const Home = ({ spec }: InferGetStaticPropsType<typeof getStaticProps>) => {
     return (
         <div className="">
             <Head>
-                <title>JAK API</title>
+                <title>Elvis Rapid API Client App</title>
                 <link rel="icon" href="/favicon.ico" />
             </Head>
             <div className="mb-[30px] flex items-center justify-center bg-[#964B00] p-10">
-                <h1 className="text-2xl font-bold text-white">JAK API</h1>
+                <h1 className="text-2xl font-bold text-white">Elvis Rapid API Client App</h1>
             </div>
             <SwaggerUI spec={spec} />
         </div>
@@ -23,7 +23,7 @@ export const getStaticProps: GetStaticProps = async () => {
     const spec: Record<string, any> = createSwaggerSpec({
         definition: {
             info: {
-                title: "JAK API",
+                title: "Elvis Rapid API Client App",
                 version: "0.0.1",
             },
         },
