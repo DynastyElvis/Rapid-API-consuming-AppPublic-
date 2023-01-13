@@ -4,7 +4,7 @@ A Single Page Application that consumes any public API from RapidAPI Hub
 
 
 ## Homepage
-<img src="https://github.com/DynastyElvis/Payment-Gateway-STRIPE/blob/main/images/Screenshot%20from%202022-09-16%2012-34-18.png" width="800px" height="400px">
+<img src="https://github.com/DynastyElvis/Rapid-API-consuming-AppPublic-/blob/main/Assets/images/Screenshot%20from%202023-01-13%2013-02-48.png" width="800px" height="400px">
 
 <div align=center>
 
