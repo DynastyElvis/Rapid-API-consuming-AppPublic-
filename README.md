@@ -65,8 +65,5 @@ to run the server. After you did that, go to [http://localhost:3000/](http://loc
 -   Backend: [Node JS](https://nodejs.org/)
 -   Hosted: [Vercel](https://vercel.com/)
 
-## Contributors
 
-<a href = "https://github.com/Jonak-Adipta-Kalita/JAK-API/graphs/contributors">
-	<img src="https://contrib.rocks/image?repo=Jonak-Adipta-Kalita/JAK-API" />
 </a>
