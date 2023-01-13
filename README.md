@@ -39,7 +39,7 @@ and hit enter.
 
 ### Getting `WEBSITE_BACKEND_URL`
 
-It is the hosted URL of [JAK-Website](https://github.com/DynastyElvis/Rapid-API-consuming-AppPublic-)'s backend.
+It is the hosted URL of [Elvis-Website](https://github.com/DynastyElvis/)'s backend.
 
 ### Passing the Required Credentials
 
