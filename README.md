@@ -2,6 +2,10 @@
 A Single Page Application that consumes any public API from RapidAPI Hub
 
 
+
+## Homepage
+<img src="https://github.com/DynastyElvis/Payment-Gateway-STRIPE/blob/main/images/Screenshot%20from%202022-09-16%2012-34-18.png" width="800px" height="400px">
+
 <div align=center>
 
 
